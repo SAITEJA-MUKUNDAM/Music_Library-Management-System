@@ -1,5 +1,5 @@
 # music-library-management-system
-A standalone dbms project for 5th semester engineering, without using css, html, php, etc,. This is a simple music library management system developed in Python, which allows you to add, delete, view and manage your music library. 
+A standalone dbms project for 6th semester engineering, without using css, html, php, etc,. This is a simple music library management system developed in Python, which allows you to add, delete, view and manage your music library. 
 
 ## Installation
 To install additional Python packages used in this program, open a command prompt and enter the following command:
